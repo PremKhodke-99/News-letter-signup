@@ -6,3 +6,8 @@
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+#main{
+    height: 30rem;
+    width: 45rem;
+}
